@@ -9,7 +9,7 @@ import './components/iconSvg'; // iconSvg
 import './permission.js'
 import './mock'; // mock数据
 
-//hello 我是develop分支
+//hello 我是develop分支  测试成功dev_01
 import i18n from './i18n'
 Vue.config.productionTip = false
 Vue.use(element)
